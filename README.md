@@ -72,11 +72,10 @@ yarn dev
 ## Demo
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/c30b1601-62e6-4b50-b5da-52e7f48f5734" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://github-production-user-asset-6210df.s3.amazonaws.com/86709401/404662318-c7f1407d-66b5-443f-94cc-3859ec08fbea.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250119T121943Z&X-Amz-Expires=300&X-Amz-Signature=809c16416c50d73787c1ad8f8c93ad95e02faad4dc3ee49ed50f700349afe0bf&X-Amz-SignedHeaders=host" type="video/mp4">
 </video>
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### State Management
 - Uses React Context API for global state management
