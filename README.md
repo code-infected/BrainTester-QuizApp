@@ -70,10 +70,11 @@ yarn dev
 
 ## Demo
 
-<video width="600" controls>
-  <source src="./video/Recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/code-infected/BrainTester-QuizApp/raw/main/video/Recording.mp4
+
+<video src="./video/Recording.mp4" controls title="BrainTester Demo">
+</video
 
 
 ## 🛠️ Technical Implementation
