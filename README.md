@@ -72,7 +72,7 @@ yarn dev
 ## Demo
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/code-infected/BrainTester-QuizApp/raw/main/video/Recording.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/c30b1601-62e6-4b50-b5da-52e7f48f5734" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
