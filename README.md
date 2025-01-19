@@ -68,6 +68,14 @@ yarn dev
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Demo
+
+<video width="600" controls>
+  <source src="./video/Recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## 🛠️ Technical Implementation
 
 ### State Management
