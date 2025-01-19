@@ -48,8 +48,8 @@ quiz-application/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd quiz-application
+git clone https://github.com/code-infected/BrainTester-QuizApp.git
+cd BrainTester-QuizApp
 ```
 
 2. Install dependencies:
